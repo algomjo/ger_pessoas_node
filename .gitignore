@@ -1,0 +1,9 @@
+# Arquivos e pastas a serem ignorados pelo Git
+
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de log do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
